@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?atoc version='0.0.1'?>
+<cset q="zip" >
+<summary  count="24"  totalSize="185316872" >
+<digs da="MD5"  count="7" />
+<digs da="MD5"  count="1" />
+</summary>
+<cset id="com.ibm.java*" >
+<summary  count="1"  totalSize="177534342" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="8.*" >
+<summary  count="1"  totalSize="177534342" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="177534342" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="com.ibm.java.macosx.x86_64.jdk"  v="8.0.210.20160215"  p=""  ex="false"  sz="177534342" >
+<dig da="MD5"  dv="73026f903dfeb08336b122be67a846b2" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="http-client-native-lib" >
+<summary  count="1"  totalSize="1692155" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="1.*" >
+<summary  count="1"  totalSize="1692155" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="1692155" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="http-client-native-lib"  v="1.0.0.20160420_0858"  p=""  ex="false"  sz="1692155" >
+<dig da="MD5"  dv="c5d0437cbb5e4eec39dd6f5f1046be33" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="com.ibm.rational*" >
+<summary  count="4"  totalSize="107767" >
+<digs da="MD5"  count="2" />
+</summary>
+<cset v="1.*" >
+<summary  count="4"  totalSize="107767" >
+<digs da="MD5"  count="2" />
+</summary>
+<cset p="*" >
+<summary  count="4"  totalSize="107767" >
+<digs da="MD5"  count="2" />
+</summary>
+<af id="com.ibm.rational.rpt.cmdlineexecute"  v="1.0.0.v20160420_1825"  p=""  ex="false"  sz="75427" >
+<dig da="MD5"  dv="eaa5833a7d472e334e5ed7bbb7eca194" />
+
+</af>
+<af id="com.ibm.rational.rpt.jaxp"  v="1.0.0.20151008"  p=""  ex="false"  sz="164" >
+<dig da="MD5"  dv="e54bcd36f225b3ebbc0b0114591c9a49" />
+
+</af>
+<af id="com.ibm.rational.rtw.ie.bho"  v="1.0.0.20150417"  p=""  ex="false"  sz="24438" >
+<dig da="MD5"  dv="d4dc6ad94a70ee7f23d8d2c72eb00d5d" />
+
+</af>
+<af id="com.ibm.rational.rpt.launch.daemon"  v="1.0.0.v20160304_1828"  p=""  ex="false"  sz="7738" >
+<dig da="MD5"  dv="680dd2fd58cf5e4ed68ce977250a31ef" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="com.ibm.rtwm*" >
+<summary  count="3"  totalSize="1636042" >
+<digs da="MD5"  count="3" />
+</summary>
+<cset v="8.*" >
+<summary  count="3"  totalSize="1636042" >
+<digs da="MD5"  count="3" />
+</summary>
+<cset p="*" >
+<summary  count="3"  totalSize="1636042" >
+<digs da="MD5"  count="3" />
+</summary>
+<af id="com.ibm.rtwm.swinventory.tag"  v="8.7.1004.20160414"  p=""  ex="false"  sz="690" >
+<dig da="MD5"  dv="641934278fdacaf586c3996222edbde1" />
+
+</af>
+<af id="com.ibm.rtwm.documentation"  v="8.6.0"  p=""  ex="false"  sz="1352777" >
+<dig da="MD5"  dv="d47ea694684e22fdce3c44760cb6521b" />
+
+</af>
+<af id="com.ibm.rtwm.licensetext"  v="8.7.1.20150918_2100"  p=""  ex="false"  sz="282575" >
+<dig da="MD5"  dv="c5aba4f4af0df5c46491e63149d03341" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="org.eclipse.rcp*" >
+<summary  count="2"  totalSize="46392" >
+<digs da="MD5"  count="2" />
+</summary>
+<cset v="1.*" >
+<summary  count="1"  totalSize="9985" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="9985" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="org.eclipse.rcp.configuration_root.cocoa.macosx.x86_64"  v="1.0.3.v20150204-1745"  p=""  ex="false"  sz="9985" >
+<dig da="MD5"  dv="1e33c2761f2b47fac926eef26dfc384c" />
+
+</af>
+</cset>
+</cset>
+<cset v="4.*" >
+<summary  count="1"  totalSize="36407" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="36407" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="org.eclipse.rcp_root"  v="4.4.2.v20150204-1700"  p=""  ex="false"  sz="36407" >
+<dig da="MD5"  dv="48ec4c09092dce63f0bf6be75438721e" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="rational-client" >
+<summary  count="1"  totalSize="2076652" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="1.*" >
+<summary  count="1"  totalSize="2076652" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="2076652" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="rational-client"  v="1.0.0.v20150910_1849"  p=""  ex="false"  sz="2076652" >
+<dig da="MD5"  dv="f51f5959cbb8522bdddc5f237e6e0e00" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="org.eclipse.platform_root*" >
+<summary  count="1"  totalSize="8139" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="4.*" >
+<summary  count="1"  totalSize="8139" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="8139" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="org.eclipse.platform_root"  v="4.4.2.v20150204-1700"  p=""  ex="false"  sz="8139" >
+<dig da="MD5"  dv="8ded17d75ac4766683a4e84691fcd643" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="org.eclipse.equinox*" >
+<summary  count="1"  totalSize="11001" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="3.*" >
+<summary  count="1"  totalSize="11001" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="11001" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="org.eclipse.equinox.executable_root.cocoa.macosx.x86_64"  v="3.6.102.v20150204-1316"  p=""  ex="false"  sz="11001" >
+<dig da="MD5"  dv="4a9f1b19ffd727310fdd18f8f2d363df" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="org.eclipse.jdt_root*" >
+<summary  count="1"  totalSize="8802" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="3.*" >
+<summary  count="1"  totalSize="8802" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="8802" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="org.eclipse.jdt_root"  v="3.10.1.v20150204-1700"  p=""  ex="false"  sz="8802" >
+<dig da="MD5"  dv="a4d12c27cbed64e38b401d02b280cd1d" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="org.eclipse.cvs_root*" >
+<summary  count="1"  totalSize="8902" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="1.*" >
+<summary  count="1"  totalSize="8902" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="8902" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="org.eclipse.cvs_root"  v="1.4.100.v20150204-1700"  p=""  ex="false"  sz="8902" >
+<dig da="MD5"  dv="7874c8b6e0d86677a81e5dbf3d3aca36" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="org.eclipse.test_root*" >
+<summary  count="1"  totalSize="3287" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="3.*" >
+<summary  count="1"  totalSize="3287" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="3287" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="org.eclipse.test_root"  v="3.5.100.v20120528-1714-7R7dBhBgLiCViQnG8ISKO73701A1"  p=""  ex="false"  sz="3287" >
+<dig da="MD5"  dv="3a9b67c9ed6fa60460ad3b2dd0859eb5" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="rtwm.trial.lum*" >
+<summary  count="1"  totalSize="668" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="1.*" >
+<summary  count="1"  totalSize="668" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="668" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="rtwm.trial.lum"  v="1.0.0.20140409"  p=""  ex="false"  sz="668" >
+<dig da="MD5"  dv="17ebb93f4f997a9090c866b0c2b8e750" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="rtw85.trial.lum*" >
+<summary  count="1"  totalSize="666" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="1.*" >
+<summary  count="1"  totalSize="666" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="666" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="rtw85.trial.lum"  v="1.0.0.20121214"  p=""  ex="false"  sz="666" >
+<dig da="MD5"  dv="3908dda11493aec3093784ab3512a251" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="com.ibm.rtw*" >
+<summary  count="3"  totalSize="2070999" >
+<digs da="MD5"  count="3" />
+</summary>
+<cset v="8.*" >
+<summary  count="1"  totalSize="1352749" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="1352749" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="com.ibm.rtw.documentation"  v="8.6.0.20140716_1600"  p=""  ex="false"  sz="1352749" >
+<dig da="MD5"  dv="e3da6beb891a1e5ef6bda921da876529" />
+
+</af>
+</cset>
+</cset>
+<cset v="9.*" >
+<summary  count="2"  totalSize="718250" >
+<digs da="MD5"  count="2" />
+</summary>
+<cset p="*" >
+<summary  count="2"  totalSize="718250" >
+<digs da="MD5"  count="2" />
+</summary>
+<af id="com.ibm.rtw.licensetext"  v="9.0.0.20160301_1400"  p=""  ex="false"  sz="717681" >
+<dig da="MD5"  dv="6422e21ee06f69982d42adcd0f0b5598" />
+
+</af>
+<af id="com.ibm.rtw.swinventory.tag"  v="9.0.0.20160211"  p=""  ex="false"  sz="569" >
+<dig da="MD5"  dv="9c676b357f9a3235974dd98516150005" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="rpt-rqm-adapter" >
+<summary  count="1"  totalSize="110427" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="1.*" >
+<summary  count="1"  totalSize="110427" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="110427" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="rpt-rqm-adapter"  v="1.0.0.20160304_1042"  p=""  ex="false"  sz="110427" >
+<dig da="MD5"  dv="937eb97474b8cbd1dc478824c52b9f79" />
+
+</af>
+</cset>
+</cset>
+</cset>
+<cset id="rtw-85-perm.lum" >
+<summary  count="1"  totalSize="631" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset v="1.*" >
+<summary  count="1"  totalSize="631" >
+<digs da="MD5"  count="1" />
+</summary>
+<cset p="*" >
+<summary  count="1"  totalSize="631" >
+<digs da="MD5"  count="1" />
+</summary>
+<af id="rtw-85-perm.lum"  v="1.0.0"  p=""  ex="false"  sz="631" >
+<dig da="MD5"  dv="1215bfb215b1d467d3aaaa3b219a95af" />
+
+</af>
+</cset>
+</cset>
+</cset>
+</cset>
